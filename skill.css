@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+}
+body{
+   
+   background-image: url(pk4.jpg);
+}
+h1{
+    text-align:left ;
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    color: aliceblue;
+    font-size: 25px;
+}
+  

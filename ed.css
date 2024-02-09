@@ -1,0 +1,18 @@
+body{
+    background-image: url(k.jpg);
+    display: flex;
+    justify-content: space-evenly;
+}
+div{
+    height: 100%;
+    width: 32%;
+    color: beige;
+}
+p{
+    position: absolute;
+    font-size: 30px;
+    top: 20%;
+}
+h1{
+    font-size: 40px;
+}
